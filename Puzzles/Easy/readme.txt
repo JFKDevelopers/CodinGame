@@ -1,0 +1,1 @@
+Solutions for Easy Puzzles
