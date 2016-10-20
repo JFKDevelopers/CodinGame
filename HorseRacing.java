@@ -1,3 +1,4 @@
+//Solution by JFKDevelopers
 import java.util.*;
 
 class Solution {
@@ -13,5 +14,4 @@ class Solution {
         }
         System.out.print(min);
     }
-     
 }
